@@ -23,12 +23,13 @@ The paper focuses on a reusable backend architecture for collecting, processing,
 
 ## Companion GitHub projects
 
-1. [MOST ICT Architecture](https://github.com/delloiaconos/most-ict-architecture)  
+1. [MOST ICT Architecture](https://github.com/delloiaconos/most-ict-architecture):
    Docker-based configuration and deployment material for the MOST Spoke 5 ICT architecture used for data collection, integration, processing, and visualization.
 
-2. [MOST Shelly Client Infrastructure](https://github.com/delloiaconos/most-shelly-client)  
+2. [MOST Shelly Client Infrastructure](https://github.com/delloiaconos/most-shelly-client):  
    Client-side infrastructure for integrating field devices with secure networking and MQTT-based communication in MOST Spoke 5 deployments.
 
+3. [ICT Monitoring](https://github.com/delloiaconos/ict-monitoring): This repository provides the containerized Prometheus/Grafana monitoring stack used to supervise the health, availability, and performance of the distributed ICT infrastructure developed in MOST Spoke 5.
 
 ## Reproducibility notes
 
