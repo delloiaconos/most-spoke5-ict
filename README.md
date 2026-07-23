@@ -1,16 +1,49 @@
 # ICT Infrastructure for Sustainable Mobility: Lessons Learned from MOST Spoke 5
 
-This repository is the central entry point for the ICT architecure related MOST Spoke 5.
-Moreover, it contains the reference material for the article:
-**ICT Infrastructure for Sustainable Mobility: the Lesson Learned from the MOST Spoke 5 Project**  
-Salvatore Dello Iacono, Chiara Franzoni, Paolo Bellagente, Alessandra Flammini, Emiliano Sisinni  
-Submitted and accpeted for publication from MDPI - *network*.
+This repository is the central entry point for the ICT architecure related MOST Spoke 5 "*Light Vehicle and Active Mobility*" WP 3 "*Infrastructure & User*".
+Moreover this repository is a central reference point for the published article: **ICT Infrastructure for Sustainable Mobility: the Lesson Learned from the MOST Spoke 5 Project**.
 
+## Read the Full Paper
+
+A detailed description of the proposed ICT architecture, its technological foundations, the implemented use cases, and the main lessons learned from the MOST Spoke 5 project is available in the following open-access article:
+
+**ICT Infrastructure for Sustainable Mobility: The Lessons Learned from the MOST Spoke 5 Project**
+
+The paper can be referenced with its DOI: [https://doi.org/10.3390/network6030057](https://doi.org/10.3390/network6030057).
+The full version is freely accessible at the publisher website: [https://www.mdpi.com/3994902](https://www.mdpi.com/3994902) 
+
+We invite researchers, practitioners, and stakeholders working in smart mobility, IoT, distributed sensing, and sustainable transportation to read the full article and explore the architecture, implementation choices, and field experience developed within MOST Spoke 5.
+
+### How to Cite
+
+When referring to this repository, the proposed architecture, or the related research activities, please cite:
+
+> Dello Iacono, S.; Franzoni, C.; Bellagente, P.; Flammini, A.; Sisinni, E.
+> **ICT Infrastructure for Sustainable Mobility: The Lessons Learned from the MOST Spoke 5 Project.**
+> *Network* **2026**, *6*, 57.
+> https://doi.org/10.3390/network6030057
+
+### BibTeX
+
+```bibtex
+@Article{2026_NETWORK_DelloIacono,
+  author  = {{Dello Iacono}, Salvatore and Franzoni, Chiara and Bellagente, Paolo and Flammini, Alessandra and Sisinni, Emiliano},
+  title   = {ICT Infrastructure for Sustainable Mobility: The Lessons Learned from the MOST Spoke 5 Project},
+  journal = {Network},
+  year    = {2026},
+  volume  = {6},
+  pages   = {57},
+  doi     = {10.3390/network6030057},
+  url     = {https://www.mdpi.com/3994902}
+}
+```
 
 ## Graphical Abstract
 
 ![Graphical Abstract](./images/GraphicalAbstract.png)
-## Scope
+
+
+## Project Scope
 
 The article presents the ICT backbone developed in the MOST Spoke 5 project for sustainable and sensorized light mobility. The proposed infrastructure combines distributed sensing, low-power communications, secure networking, containerized services, time-series storage, dashboarding, and infrastructure monitoring to support heterogeneous field deployments.
 
